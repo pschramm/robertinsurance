@@ -39,9 +39,7 @@ canonifyURLs = true
     weight = 10
     
 [[menu.main]]
-    name  = "Contact Us
-    
-    "
+    name  = "Contact Us"
     url   = "/contact/"
     weight = 20
 		
