@@ -1,10 +1,10 @@
-baseURL = "https://offshorehealth.netlify.com/"
+baseURL = "https://morefreestuffforbob.netlify.com/"
 title = "Offshore Heatlh Benefits"
 subtitle = "Global Medical & Travel Insurance for the Global Expatriate"
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme-master"
-GoogleAnalytics = "" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
+GoogleAnalytics = "UA-114903806-1" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
 canonifyURLs = true
 # rssURI = "feed/" #deprecated feature
 
